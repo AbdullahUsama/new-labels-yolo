@@ -1,5 +1,4 @@
-# Fixing Loose Bounding Boxes: A SAM-Powered Approach for YOLO Datasets
-
+# Fixing Loose Bounding Boxes: A SAM-Powered Approach for YOLO Datasets | My Article: ([Link](https://medium.com/@ausama.bese22seecs/fixing-loose-bounding-boxes-a-sam-powered-approach-for-yolo-datasets-ea96836a5730))
 ## Overview
 
 Imperfect bounding boxes in computer vision datasets can severely hinder the performance of object detection models. This repository provides a robust solution to address the issue of loose bounding boxes in YOLO datasets by leveraging Facebook's Segment Anything Model (SAM) to generate tighter, more accurate annotations.
